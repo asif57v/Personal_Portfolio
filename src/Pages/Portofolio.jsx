@@ -156,7 +156,7 @@ export default function FullWidthTabs() {
           TechStack: ["React", "Tailwind CSS", "JavaScript", "Vite"],
           Link: "https://personal-portfolio-q3dq.vercel.app/",
           Github: "https://github.com/asif57v/Personal_Portfolio",
-          Img: "https://images.unsplash.com/photo-1507238692062-568cb15115d3?q=80&w=1000&auto=format&fit=crop"
+          Img: "/portfolio_ui.png"
         },
         {
           id: "1",
