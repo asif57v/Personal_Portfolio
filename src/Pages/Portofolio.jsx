@@ -150,6 +150,15 @@ export default function FullWidthTabs() {
           Img: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1000&auto=format&fit=crop"
         },
         {
+          id: "4",
+          Title: "Personal Portfolio Website",
+          Description: "A modern, highly interactive portfolio crafted to showcase projects and professional experience with advanced animations and responsive design.",
+          TechStack: ["React", "Tailwind CSS", "JavaScript", "Vite"],
+          Link: "https://personal-portfolio-q3dq.vercel.app/",
+          Github: "https://github.com/asif57v/Personal_Portfolio",
+          Img: "https://images.unsplash.com/photo-1507238692062-568cb15115d3?q=80&w=1000&auto=format&fit=crop"
+        },
+        {
           id: "1",
           Title: "Agriculture Management Platform",
           Description: "Web platform connecting farmers and buyers for crop trading. Developed REST APIs for authentication, crop listing and order management. Optimized database queries improving response time by 30%.",
